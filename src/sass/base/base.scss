@@ -1,0 +1,12 @@
+@import-normilize;
+@import "../abstracts/variables.scss";
+
+body {
+  background-color: $bgc;
+  color: $text;
+  font-family: "Unbounded";
+}
+
+button {
+  cursor: pointer;
+}
